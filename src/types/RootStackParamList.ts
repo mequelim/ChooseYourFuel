@@ -1,5 +1,5 @@
 type RootStackParamList = {
-  Form: undefined;
+  Form: React.JSX.Element;
   Result: {
     gasolinePrice: number;
     ethanolPrice: number;
