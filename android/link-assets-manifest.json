@@ -1,0 +1,1045 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/monospace/AzeretMono/AzeretMono-Bold.ttf",
+      "sha1": "a0d47760d9c444142201677cad79a460aaeb2f40"
+    },
+    {
+      "path": "assets/fonts/monospace/AzeretMono/AzeretMono-ExtraBold.ttf",
+      "sha1": "9b77e533c05f2db1c2ef73b8d310655d5742fbeb"
+    },
+    {
+      "path": "assets/fonts/monospace/AzeretMono/AzeretMono-Medium.ttf",
+      "sha1": "59d52761c001c6a4a7a0055e445b1ce803459af0"
+    },
+    {
+      "path": "assets/fonts/monospace/AzeretMono/AzeretMono-Regular.ttf",
+      "sha1": "774ec8898b73224b910ceba1e9ed7fa4091de33c"
+    },
+    {
+      "path": "assets/fonts/monospace/AzeretMono/AzeretMono-SemiBold.ttf",
+      "sha1": "5998e15b6787670c29cb6ee1d834a1e65242ef44"
+    },
+    {
+      "path": "assets/fonts/monospace/Comfortaa/Comfortaa-Bold.ttf",
+      "sha1": "160e0e5a1010cd45ea124f08a894156e02236551"
+    },
+    {
+      "path": "assets/fonts/monospace/Comfortaa/Comfortaa-Light.ttf",
+      "sha1": "ed0ebd5d2d4f12b0b8ad23bfee5c5ef692c713c7"
+    },
+    {
+      "path": "assets/fonts/monospace/Comfortaa/Comfortaa-Medium.ttf",
+      "sha1": "fda057b8b92cfb9c4c65b8151cee56a089390526"
+    },
+    {
+      "path": "assets/fonts/monospace/Comfortaa/Comfortaa-Regular.ttf",
+      "sha1": "fb5a258452921a7f710d1913777ae6f48a0b6089"
+    },
+    {
+      "path": "assets/fonts/monospace/Comfortaa/Comfortaa-SemiBold.ttf",
+      "sha1": "48890a29aafcb54748ace8dadff63a2dc261fe6c"
+    },
+    {
+      "path": "assets/fonts/monospace/CourierPrime/CourierPrime-Bold.ttf",
+      "sha1": "ea491d42faae0061c4f04ea514874643ed128f05"
+    },
+    {
+      "path": "assets/fonts/monospace/CourierPrime/CourierPrime-BoldItalic.ttf",
+      "sha1": "774537c23f1e4b86998b7dceb4477b169b7e178c"
+    },
+    {
+      "path": "assets/fonts/monospace/CourierPrime/CourierPrime-Italic.ttf",
+      "sha1": "b2db781fbf2d2414ec13013a02e623725dcd935f"
+    },
+    {
+      "path": "assets/fonts/monospace/CourierPrime/CourierPrime-Regular.ttf",
+      "sha1": "f0e110c73ff02b2fc7f60bd96697c42ee9730ae2"
+    },
+    {
+      "path": "assets/fonts/monospace/CutiveMono/CutiveMono-Regular.ttf",
+      "sha1": "86f534536df0f068c8a6c70afdc8bd7f66e75ae8"
+    },
+    {
+      "path": "assets/fonts/monospace/FiraMono/FiraMono-Bold.ttf",
+      "sha1": "9bcd1dd66bc57133184b1f0d78d5ea00ea120cff"
+    },
+    {
+      "path": "assets/fonts/monospace/FiraMono/FiraMono-Medium.ttf",
+      "sha1": "15af935dbe13ce586b9e6aae81d72a67209865fb"
+    },
+    {
+      "path": "assets/fonts/monospace/FiraMono/FiraMono-Regular.ttf",
+      "sha1": "7d98ea84a19a53744b95bd572c310c2f0dec1ac5"
+    },
+    {
+      "path": "assets/fonts/monospace/FragmentMono/FragmentMono-Italic.ttf",
+      "sha1": "4f963695f46a47977538848e9319a1ff4d58bbba"
+    },
+    {
+      "path": "assets/fonts/monospace/FragmentMono/FragmentMono-Regular.ttf",
+      "sha1": "a8ae2dd6c36250cf85afbcf35e851ef25a5ad39b"
+    },
+    {
+      "path": "assets/fonts/monospace/JetBrainsMono/JetBrainsMono-Bold.ttf",
+      "sha1": "3749e1402fb5d5ab05c082911a4222b30e7e7ce9"
+    },
+    {
+      "path": "assets/fonts/monospace/JetBrainsMono/JetBrainsMono-Italic.ttf",
+      "sha1": "a613563d85b404435e276b67732e1f838081cc65"
+    },
+    {
+      "path": "assets/fonts/monospace/JetBrainsMono/JetBrainsMono-Medium.ttf",
+      "sha1": "6c85ba197a824800c623170a03de2c7dcd4e231f"
+    },
+    {
+      "path": "assets/fonts/monospace/JetBrainsMono/JetBrainsMono-Regular.ttf",
+      "sha1": "c48508dd46c3ca28ce0d2fd9e65bfb7199532f58"
+    },
+    {
+      "path": "assets/fonts/monospace/KodeMono/KodeMono-Bold.ttf",
+      "sha1": "eef7a03b6d69d62b3a0ddc7e0bc9a9cabd5dc2a1"
+    },
+    {
+      "path": "assets/fonts/monospace/KodeMono/KodeMono-Medium.ttf",
+      "sha1": "c7879fe1ab51f1de8be561b105eb383f65eaf3da"
+    },
+    {
+      "path": "assets/fonts/monospace/KodeMono/KodeMono-Regular.ttf",
+      "sha1": "b0205597a64cdd911906691f17fa67c7fe472fd4"
+    },
+    {
+      "path": "assets/fonts/monospace/KodeMono/KodeMono-SemiBold.ttf",
+      "sha1": "206302149b4bc6e611ec37483fda0804bbc546b3"
+    },
+    {
+      "path": "assets/fonts/monospace/MartianMono/MartianMono-Bold.ttf",
+      "sha1": "94b8f27c05f39189de940dbc86e7e93328caab1f"
+    },
+    {
+      "path": "assets/fonts/monospace/MartianMono/MartianMono-Medium.ttf",
+      "sha1": "e3655fae38472e48d2cb8a37eff0aa0ab171dc97"
+    },
+    {
+      "path": "assets/fonts/monospace/MartianMono/MartianMono-Regular.ttf",
+      "sha1": "47a4a7e7827a6dea21ae7a89aeb1e4fdd770b931"
+    },
+    {
+      "path": "assets/fonts/monospace/MartianMono/MartianMono-SemiBold.ttf",
+      "sha1": "7fb2db82ed0cad20fa194ae045cd9ad7b877c62e"
+    },
+    {
+      "path": "assets/fonts/monospace/NotoSansMono/NotoSansMono-Bold.ttf",
+      "sha1": "c94665baffd4840940f2a433f0e4f0dbf5a2f019"
+    },
+    {
+      "path": "assets/fonts/monospace/NotoSansMono/NotoSansMono-Medium.ttf",
+      "sha1": "0026941680bd550da09bdb6de36708c35a0678fb"
+    },
+    {
+      "path": "assets/fonts/monospace/NotoSansMono/NotoSansMono-Regular.ttf",
+      "sha1": "4b48f3a79ba17f1952274ec9d24be51d6373c8c7"
+    },
+    {
+      "path": "assets/fonts/monospace/NotoSansMono/NotoSansMono-SemiBold.ttf",
+      "sha1": "3a939454df3d57617a73c806a694eab985f1d241"
+    },
+    {
+      "path": "assets/fonts/monospace/NovaMono/NovaMono-Regular.ttf",
+      "sha1": "4a962d87ef73bb90619055280310622b0294cebc"
+    },
+    {
+      "path": "assets/fonts/monospace/OverpassMono/OverpassMono-Bold.ttf",
+      "sha1": "0ba3a3ad5e5178beea3b1975a1c0add3f409eaf7"
+    },
+    {
+      "path": "assets/fonts/monospace/OverpassMono/OverpassMono-Light.ttf",
+      "sha1": "92b396ca28e77e28d4a2ff10fd765e8fd5075cad"
+    },
+    {
+      "path": "assets/fonts/monospace/OverpassMono/OverpassMono-Medium.ttf",
+      "sha1": "8dfc4961350e2b4ec69ab1901e458a04870df864"
+    },
+    {
+      "path": "assets/fonts/monospace/OverpassMono/OverpassMono-Regular.ttf",
+      "sha1": "9b72bf023d13cd57efa1c83b4bb15c00272a1374"
+    },
+    {
+      "path": "assets/fonts/monospace/OverpassMono/OverpassMono-SemiBold.ttf",
+      "sha1": "faa3d6b1039376d054a218e2db5a06a04a63ed16"
+    },
+    {
+      "path": "assets/fonts/monospace/OxygenMono/OxygenMono-Regular.ttf",
+      "sha1": "d6e75a2dc69f937046e39fdb6a0ce6100708a44a"
+    },
+    {
+      "path": "assets/fonts/monospace/PTMono/PTMono-Regular.ttf",
+      "sha1": "adebfdd491cb3bf2ebb92ea23e9ec1ec1608f9bc"
+    },
+    {
+      "path": "assets/fonts/monospace/RedHatMono/RedHatMono-Bold.ttf",
+      "sha1": "d8cf68bb03d6200227d017eb36679b8521c74f86"
+    },
+    {
+      "path": "assets/fonts/monospace/RedHatMono/RedHatMono-Medium.ttf",
+      "sha1": "7e3c18e72b7b77b71e9f13f03083b88f901d7d4c"
+    },
+    {
+      "path": "assets/fonts/monospace/RedHatMono/RedHatMono-Regular.ttf",
+      "sha1": "0f225277ad7fef4491631d7219dcdaaa28745224"
+    },
+    {
+      "path": "assets/fonts/monospace/RedHatMono/RedHatMono-SemiBold.ttf",
+      "sha1": "c9858d322110591008b488c0770f4de2c098df40"
+    },
+    {
+      "path": "assets/fonts/monospace/RobotoMono/RobotoMono-Bold.ttf",
+      "sha1": "9155bb87dab4ebc84ad4dffd69051e3dd33b73c0"
+    },
+    {
+      "path": "assets/fonts/monospace/RobotoMono/RobotoMono-Medium.ttf",
+      "sha1": "c86b835df1f911c6fa48b0e28f9f3fe80b981f13"
+    },
+    {
+      "path": "assets/fonts/monospace/RobotoMono/RobotoMono-Regular.ttf",
+      "sha1": "c25a072c96240ab8fc288b61edf2bb133aaa975d"
+    },
+    {
+      "path": "assets/fonts/monospace/RobotoMono/RobotoMono-SemiBold.ttf",
+      "sha1": "3e27af4808640005903a8791831e78ef177189a2"
+    },
+    {
+      "path": "assets/fonts/monospace/SometypeMono/SometypeMono-Bold.ttf",
+      "sha1": "ff50d55fb21d011ef5faa1bd4bc4cd5edb0dda89"
+    },
+    {
+      "path": "assets/fonts/monospace/SometypeMono/SometypeMono-Medium.ttf",
+      "sha1": "bf680d3ec460d9055afa8a627df5df1894d8c6a2"
+    },
+    {
+      "path": "assets/fonts/monospace/SometypeMono/SometypeMono-Regular.ttf",
+      "sha1": "38bcd37253461838d78eba2969843892a41b23d6"
+    },
+    {
+      "path": "assets/fonts/monospace/SometypeMono/SometypeMono-SemiBold.ttf",
+      "sha1": "1ea4813cfebc20f5bf544e5a0019d876803edafa"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-Bold.ttf",
+      "sha1": "781c87f16725eff3ecb636ef2708c10922f719be"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-ExtraBold.ttf",
+      "sha1": "4a8de951baa3c330a7e766b444f9ab2cd4e75074"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-ExtraLight.ttf",
+      "sha1": "7da9b1f677e70fde394e4c3ca537404f6dc7bd66"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-Light.ttf",
+      "sha1": "850363de08108d6057b0f717258e55ec7f099488"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-Medium.ttf",
+      "sha1": "02662404297883013aa32e927d4fe9ccca1f6b32"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-Regular.ttf",
+      "sha1": "ffd538e5ac4dcfcdc565bd40872e0b693e97966f"
+    },
+    {
+      "path": "assets/fonts/monospace/Sono/Sono-SemiBold.ttf",
+      "sha1": "9dd99e265a533b3e09082ddef1e7b4ecb5e2e542"
+    },
+    {
+      "path": "assets/fonts/monospace/SourceCodePro/SourceCodePro-Bold.ttf",
+      "sha1": "25e58d890f34aee0c9cd2aa0eff4f5432a59a000"
+    },
+    {
+      "path": "assets/fonts/monospace/SourceCodePro/SourceCodePro-Medium.ttf",
+      "sha1": "1b326502bb6172741114300404a543de251855c8"
+    },
+    {
+      "path": "assets/fonts/monospace/SourceCodePro/SourceCodePro-Regular.ttf",
+      "sha1": "84105b22f95c3c871eaac93ce7ae542dec54a8e8"
+    },
+    {
+      "path": "assets/fonts/monospace/SpaceMono/SpaceMono-Bold.ttf",
+      "sha1": "91bc9576b93d1a2ffc75da19665a3b8b654f5d40"
+    },
+    {
+      "path": "assets/fonts/monospace/SpaceMono/SpaceMono-BoldItalic.ttf",
+      "sha1": "9aad4d2055e6ac52cd47f2a09ea836f697bef50b"
+    },
+    {
+      "path": "assets/fonts/monospace/SpaceMono/SpaceMono-Italic.ttf",
+      "sha1": "9bdbab7a60578b307d9ae6c45c859ed5ba98d762"
+    },
+    {
+      "path": "assets/fonts/monospace/SpaceMono/SpaceMono-Regular.ttf",
+      "sha1": "b610a073df31c21b1378d9996a80c3056ec80329"
+    },
+    {
+      "path": "assets/fonts/monospace/SplineSansMono/SplineSansMono-Bold.ttf",
+      "sha1": "3de8fef9408c6232bacf7ac3236128310a89d5cf"
+    },
+    {
+      "path": "assets/fonts/monospace/SplineSansMono/SplineSansMono-Medium.ttf",
+      "sha1": "512b3027fb8b37aad0f6d56d1f43c105dbb03fbe"
+    },
+    {
+      "path": "assets/fonts/monospace/SplineSansMono/SplineSansMono-Regular.ttf",
+      "sha1": "df140d74ef1c16c87935b9a958b39bba543ad9e2"
+    },
+    {
+      "path": "assets/fonts/monospace/SplineSansMono/SplineSansMono-SemiBold.ttf",
+      "sha1": "9d7084ef70ca1c6b83dc23684d80020221603b14"
+    },
+    {
+      "path": "assets/fonts/monospace/UbuntuMono/UbuntuMono-Bold.ttf",
+      "sha1": "590d3fa8514adf0169fa18224ccfaab9e7decc7d"
+    },
+    {
+      "path": "assets/fonts/monospace/UbuntuMono/UbuntuMono-BoldItalic.ttf",
+      "sha1": "591aaf567d5190de44a3bf98f65fe621c888929d"
+    },
+    {
+      "path": "assets/fonts/monospace/UbuntuMono/UbuntuMono-Italic.ttf",
+      "sha1": "7216443bd8f0dd34437f7735f491f42b2bbf58e8"
+    },
+    {
+      "path": "assets/fonts/monospace/UbuntuMono/UbuntuMono-Regular.ttf",
+      "sha1": "e17c11971f57bd8dfab74b9a0881c71a78bd7940"
+    },
+    {
+      "path": "assets/fonts/sans-serif/AnonymousPro/AnonymousPro-Bold.ttf",
+      "sha1": "bfc8d198336c84f11f43c33671de9e23ddf3d058"
+    },
+    {
+      "path": "assets/fonts/sans-serif/AnonymousPro/AnonymousPro-BoldItalic.ttf",
+      "sha1": "2bcf133316eba7c9838225a449680c178842dc8c"
+    },
+    {
+      "path": "assets/fonts/sans-serif/AnonymousPro/AnonymousPro-Italic.ttf",
+      "sha1": "6032e47a29201e3e2aaecb56f583d2741bb546c2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/AnonymousPro/AnonymousPro-Regular.ttf",
+      "sha1": "e5a1581199fe0058ba03e322b9a4823e199dd2b6"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/Archivo-Bold.ttf",
+      "sha1": "eb82d92b518bfb11b7b5768076849dbeba3de0ac"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/Archivo-Medium.ttf",
+      "sha1": "4bdd76137310b22c3263c63041e1f93734eb06bc"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/Archivo-Regular.ttf",
+      "sha1": "c14f15d27da595dcfe84fde32fdb75fc1e970e46"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/Archivo-SemiBold.ttf",
+      "sha1": "2bc6020da26a12e3f9918f076bd00854618aaceb"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoCondensed-Bold.ttf",
+      "sha1": "e6fb6b1e1a257c27159b3e24f34fdbf2427e9bf4"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoCondensed-ExtraBold.ttf",
+      "sha1": "a06ab962d1f659f711f1a8997ad1b82c1eb5be60"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoCondensed-Medium.ttf",
+      "sha1": "14182fa6e53394e3d4a266a2a3b111f3c344846f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoCondensed-Regular.ttf",
+      "sha1": "eac78af6e1c6c48d8423ae7d3120ae73db1e137e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoCondensed-SemiBold.ttf",
+      "sha1": "e3a7c1556dd39fe8a18805512405331f7bf587f0"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoCondensed-Thin.ttf",
+      "sha1": "fb5d3ea063112514a171cecc3c4bde47aa1d475d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExpanded-Bold.ttf",
+      "sha1": "f4371ca709984f5f492a0949b16c66acdfb5ddbd"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExpanded-Medium.ttf",
+      "sha1": "a9e4d6efe6f2ffa5c5af25775d818e74ff768396"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExpanded-Regular.ttf",
+      "sha1": "868561f74ae07975ae7f05813fff415fab2be57b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExpanded-SemiBold.ttf",
+      "sha1": "3023efcb4684f79370e66942cd0da8c8de00af7f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExtraCondensed-Bold.ttf",
+      "sha1": "85450aea56c8c9daa6c6604dd949d1fb1bbde20f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExtraCondensed-Medium.ttf",
+      "sha1": "754f3c18057e1e93eb6e2fa2efd6ab10625d0f3f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExtraCondensed-Regular.ttf",
+      "sha1": "378ecf0e724d8bd1b364e7614d6c4506372c0c1f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoExtraCondensed-SemiBold.ttf",
+      "sha1": "0218e36d7ab0ae6afaa803923ad73f964a16941d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoSemiCondensed-Bold.ttf",
+      "sha1": "37921d5d402f8ba7d5f100bbfe96c6b19eaa8133"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoSemiCondensed-Medium.ttf",
+      "sha1": "dda965dae0adf864180893bd4e813443d39b1c5b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoSemiCondensed-Regular.ttf",
+      "sha1": "8b48733bd6b4fc2de4010dd9b551f7cb1934c325"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Archivo/ArchivoSemiCondensed-SemiBold.ttf",
+      "sha1": "f0716305d9a1085361efe2e8bb2e7da7f09955af"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-Bold.ttf",
+      "sha1": "55cd1f277429c65e26433da5d122044142f76d58"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-BoldItalic.ttf",
+      "sha1": "f989643001f635069dcf488ac988c4c254a344e1"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-Italic.ttf",
+      "sha1": "979cc7f213d58066fdf95ad44671d9a018c458e5"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-Medium.ttf",
+      "sha1": "1e4d0870c9077a4281c1ebf52b04e5e58436360b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-MediumItalic.ttf",
+      "sha1": "af34c9746d6bfdebd3ca15ac17093e79c0ac002c"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-Regular.ttf",
+      "sha1": "c7d2ac919d1331a6340279e18d15f5de4c8f3df6"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-SemiBold.ttf",
+      "sha1": "84336694c2e68a145abf5f1fdb6bf7fd16f4019c"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Arimo/Arimo-SemiBoldItalic.ttf",
+      "sha1": "f2c80d0ca7e99ec490fb57509ef9f3d950a31c26"
+    },
+    {
+      "path": "assets/fonts/sans-serif/CabinSketch/CabinSketch-Bold.ttf",
+      "sha1": "ff53f010c8e0abb5252b332069c92cb3e2febd1e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/CabinSketch/CabinSketch-Regular.ttf",
+      "sha1": "c9ba1b52ae2735e7e255c974e16bfe5f354dde60"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Cutive/Cutive-Regular.ttf",
+      "sha1": "892f5e75f764189df9b4874cc7879d0c0e528f19"
+    },
+    {
+      "path": "assets/fonts/sans-serif/FiraSans/FiraSans-Bold.ttf",
+      "sha1": "bdb04cd9e835a3cf7ba22df0354f1472812df225"
+    },
+    {
+      "path": "assets/fonts/sans-serif/FiraSans/FiraSans-Light.ttf",
+      "sha1": "d795fdfc99d1bad2c0e42eea5a9f06e49dd67b1b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/FiraSans/FiraSans-Medium.ttf",
+      "sha1": "9181432d76711ae510c9f20713465810cf09e63b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/FiraSans/FiraSans-Regular.ttf",
+      "sha1": "9647e8c14e6618517f6942fbada0a01e2c18973d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Helvetica/Helvetica-Bold.ttf",
+      "sha1": "d064906892c6baf2916d5102910026ba0a4f2664"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Helvetica/Helvetica-Regular.ttf",
+      "sha1": "53cb59bdb997dd39dc70b95d50133583e66ebdcb"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Inconsolata/Inconsolata-Bold.ttf",
+      "sha1": "d261bc37f283fc4e9104100750d2fc4c65c6cf74"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Inconsolata/Inconsolata-Medium.ttf",
+      "sha1": "f72a59ce0107983a5fff171d27da81e8c128c8b2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Inconsolata/Inconsolata-Regular.ttf",
+      "sha1": "ea94cf4a11361f33027dd6dce513ea53fdda16d2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Inconsolata/Inconsolata-SemiBold.ttf",
+      "sha1": "a15a41aee641ef37a9f15f1b7b519175ce0ee575"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-Bold.ttf",
+      "sha1": "57aae89112d94e577486ffa80b64e6f68efad405"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-BoldItalic.ttf",
+      "sha1": "d5a15b9baf1b5b3ba6c9315fee78bf32c1e96723"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-ExtraLight.ttf",
+      "sha1": "8ed1237c0a6e66289d71495286c21a43067ce3ba"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-ExtraLightItalic.ttf",
+      "sha1": "14c1f9bf214d0a128666e01c1be6ce1405dea329"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-Italic.ttf",
+      "sha1": "452e6adb2d7f817358c7cbcc55376c8603230ae1"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-Light.ttf",
+      "sha1": "aaeeb6568b2b9eb9fc75603c28d94340e9b0e448"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-LightItalic.ttf",
+      "sha1": "9dbfbf0a338adaf86ce3f81b5afa6cfe8530662b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-Medium.ttf",
+      "sha1": "bd44ede64c8f0a8f786f0f6ddb8edcfc143c35e0"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-MediumItalic.ttf",
+      "sha1": "a8206831f417b8f7a3fc7bf41376498a075b0c0f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-Regular.ttf",
+      "sha1": "6536e6e113fbc08c6b53ca4ce261015c462c8718"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-SemiBold.ttf",
+      "sha1": "776fb7e3dd894383df9468a3b8c16cdc8654d439"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-SemiBoldItalic.ttf",
+      "sha1": "afe64791e0e9fdaf4e4125fc86d8dade159e1faa"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-Thin.ttf",
+      "sha1": "1d4f678af1d1ce17bb48e97511b0eafaa27b89d2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/JosefinSans/JosefinSans-ThinItalic.ttf",
+      "sha1": "27128eec1b74d869d79b72586e561f5f488ff951"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lato/Lato-Bold.ttf",
+      "sha1": "542498221d97bee5bdbccf86ee8890bf8e8005c9"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lato/Lato-Regular.ttf",
+      "sha1": "e923c72eda5e50a87e18ff5c71e9ef4b3b6455a3"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lato/Lato-Thin.ttf",
+      "sha1": "07290446bee3f81ce501a3c3dbfde6097c70ca15"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lato/Lato-ThinItalic.ttf",
+      "sha1": "ff4a1a9fe2dcc41d993f4c5067a3baa1c456ff97"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-Black.ttf",
+      "sha1": "d5cb18ad3ffeeed68c3753396450935fc5ecbeb2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-Bold.ttf",
+      "sha1": "df3c3feab8ac51ab6f8d6a01f3b3a0e19dc88d03"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-ExtraBold.ttf",
+      "sha1": "b4eb65e2f16d6614bde3f7d9d0bb09742ff47163"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-ExtraLight.ttf",
+      "sha1": "29cea0bfaa9b846ba18aa6ff8c4914db5f09ebd7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-Light.ttf",
+      "sha1": "7ee28022da7fcd1f0adcfe7c2d73650c59d5c1fc"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-Medium.ttf",
+      "sha1": "d607ea1e392b925d5229569cd3a8c9bdfcac1eaf"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-Regular.ttf",
+      "sha1": "dd3cee6e434d8debb7699473bd61918cfb54798d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-SemiBold.ttf",
+      "sha1": "2a080dd36278ff2755d5976317cbeeecbcf6cc62"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Lexend/Lexend-Thin.ttf",
+      "sha1": "13b34f576c98265048bba2deebe6a97fbc055626"
+    },
+    {
+      "path": "assets/fonts/sans-serif/LexendDeca/LexendDeca-Bold.ttf",
+      "sha1": "7ee129b4ba6b0eafef748040d48b7979429f149e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/LexendDeca/LexendDeca-Medium.ttf",
+      "sha1": "ab665bd77c6d32b4ddb555d2508fde44d384c822"
+    },
+    {
+      "path": "assets/fonts/sans-serif/LexendDeca/LexendDeca-Regular.ttf",
+      "sha1": "68dad5183767d1ebf077be1ddb622a7586f28384"
+    },
+    {
+      "path": "assets/fonts/sans-serif/LexendDeca/LexendDeca-SemiBold.ttf",
+      "sha1": "f79ea2615b597db5e10776fb1889b783283aeffc"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Montserrat/Montserrat-Bold.ttf",
+      "sha1": "04052dc3b846609216de1e0cbcec337c6b6e74f6"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Montserrat/Montserrat-Medium.ttf",
+      "sha1": "6b57d12e018c64352e202f8ef3bf7f431f76d935"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Montserrat/Montserrat-Regular.ttf",
+      "sha1": "de57aa03e4821fdbe6c34ec2c895e8b5c914e837"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Montserrat/Montserrat-SemiBold.ttf",
+      "sha1": "8580dec824bbdb6ce24d04d3aaf360776339f0a7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Nunito/Nunito-Bold.ttf",
+      "sha1": "d8091536d0fab37a3239067f708a0221070835da"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Nunito/Nunito-Medium.ttf",
+      "sha1": "941255b6a8c1e2d286ed9613bd6b354e2423dad9"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Nunito/Nunito-Regular.ttf",
+      "sha1": "465c464793593babb53e51e2a56562cdd79c237d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Nunito/Nunito-SemiBold.ttf",
+      "sha1": "047ca2a59c253520cc46b3506744fad6ef8192c6"
+    },
+    {
+      "path": "assets/fonts/sans-serif/NunitoSans/NunitoSans-Bold.ttf",
+      "sha1": "9bac6650ac507968089985e02ba424a84b27ab12"
+    },
+    {
+      "path": "assets/fonts/sans-serif/NunitoSans/NunitoSans-Medium.ttf",
+      "sha1": "036f3dbc6e6088809d1b2b7bcb0939988ad07bf8"
+    },
+    {
+      "path": "assets/fonts/sans-serif/NunitoSans/NunitoSans-Regular.ttf",
+      "sha1": "466635ba024c43f741e320148a159557fd732ec0"
+    },
+    {
+      "path": "assets/fonts/sans-serif/NunitoSans/NunitoSans-SemiBold.ttf",
+      "sha1": "b711d63c786e5a61d89f8918ab36925274bd591b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/OpenSans/OpenSans-Bold.ttf",
+      "sha1": "1f22568081c57eb8980ccbec86decd452f35d6b0"
+    },
+    {
+      "path": "assets/fonts/sans-serif/OpenSans/OpenSans-Medium.ttf",
+      "sha1": "08021b2494bdb87677e7a0ac061e66436a0850ef"
+    },
+    {
+      "path": "assets/fonts/sans-serif/OpenSans/OpenSans-Regular.ttf",
+      "sha1": "b4596a8e11ee5b6331f2fecf656a53f61677b56e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/OpenSans/OpenSans-SemiBold.ttf",
+      "sha1": "96b49e2ee8d4d25996146841eaaebdbb5894ed33"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overlock/Overlock-Black.ttf",
+      "sha1": "b55dd88c9f449ee506a5824b39bb8af4c9c6dda6"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overlock/Overlock-BlackItalic.ttf",
+      "sha1": "c790140a9208ea82bca839debadc7df0a42d3944"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overlock/Overlock-Bold.ttf",
+      "sha1": "b81fe6e9233f77b01991c72b5c28279b3a4f8aab"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overlock/Overlock-BoldItalic.ttf",
+      "sha1": "987a44bf4586b27b3fde1344cbcb6d5489be55dd"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overlock/Overlock-Italic.ttf",
+      "sha1": "a503d42870ce1d8fb6bcbce3fca0c8b2ae38cb1a"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overlock/Overlock-Regular.ttf",
+      "sha1": "952fbff23d5d297ce265c75f50ae61ff862f733c"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Black.ttf",
+      "sha1": "0195b73ce476f05dd9421de16d9f9fd2109d463e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-BlackItalic.ttf",
+      "sha1": "63c9cd5d08ed32a5be556ae63789c29efc8ccb7f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Bold.ttf",
+      "sha1": "e420e1174dd8cda693ffd247d31ae6f3bd1681b7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-BoldItalic.ttf",
+      "sha1": "6960eba5a57845edc9f4859bc40cf9bcb482f78e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-ExtraBold.ttf",
+      "sha1": "16f7d756cbd0bb26643eed50bc9f4052268bb9d6"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-ExtraBoldItalic.ttf",
+      "sha1": "49531bfe17e80a4e82bd6f451bb10092a05ebe2b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-ExtraLight.ttf",
+      "sha1": "f4a466c00975961894636b410bc518c16c348d7d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-ExtraLightItalic.ttf",
+      "sha1": "418ac45b6cfcedad9531119614046cd2e92887f8"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Italic.ttf",
+      "sha1": "c24d68be02e7337ab604978fb32c28ef1b25aca2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Light.ttf",
+      "sha1": "52468851c02639791989b60d4b7f0fea21215081"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-LightItalic.ttf",
+      "sha1": "5695bfc7b75a4aaa26f8c62f66c4d0acaa41772e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Medium.ttf",
+      "sha1": "fecb003e384b102093e529d6e0de15e2c1d314ea"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-MediumItalic.ttf",
+      "sha1": "7fe3c6a2b81571105ec0d757975da03f55d99761"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Regular.ttf",
+      "sha1": "0dab6623885d01676c91a370c6d450b6cc9dce9b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-SemiBold.ttf",
+      "sha1": "5952fd0cbfae82d8f9be0a9a9c10966ca19aa2cf"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-SemiBoldItalic.ttf",
+      "sha1": "2d6633b8632e2211b7d21d55511ca30141d5d1d3"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-Thin.ttf",
+      "sha1": "c980d3f0238678fb30d73fc63aef7ff49a1ae6ce"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Overpass/Overpass-ThinItalic.ttf",
+      "sha1": "33f0359f663bf45b168770ac9229356b5b736784"
+    },
+    {
+      "path": "assets/fonts/sans-serif/PTSans/PTSans-Bold.ttf",
+      "sha1": "356c8987ef7a8752108cf7b7a86d1f1bf0c60999"
+    },
+    {
+      "path": "assets/fonts/sans-serif/PTSans/PTSans-Regular.ttf",
+      "sha1": "641626d5d6a625a1e46e09ceb806cf33d1c1867e"
+    },
+    {
+      "path": "assets/fonts/sans-serif/PlaypenSans/PlaypenSans-Medium.ttf",
+      "sha1": "c2ae75f542d27f5f2306d0924cb3e9e00dfbc806"
+    },
+    {
+      "path": "assets/fonts/sans-serif/PlaypenSans/PlaypenSans-Regular.ttf",
+      "sha1": "67ff9d916ffe076820f1c3903a122b229929ddf1"
+    },
+    {
+      "path": "assets/fonts/sans-serif/PlaypenSans/PlaypenSans-SemiBold.ttf",
+      "sha1": "766c2896b3eaad04628101b2c576d3a4580d60f4"
+    },
+    {
+      "path": "assets/fonts/sans-serif/PoetsenOne/PoetsenOne-Regular.ttf",
+      "sha1": "90edb2edd900ad302faeab3b1f0f0b5548649dda"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Poppins/Poppins-Bold.ttf",
+      "sha1": "cbe48c785f1af6bcd7320609094055e299481da9"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Poppins/Poppins-Medium.ttf",
+      "sha1": "5c96d1545a51c39e05ee0fcc0c3c9021f14d9c31"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Poppins/Poppins-Regular.ttf",
+      "sha1": "440dc8992517a306d66e55cb0afed0cfe9b971b5"
+    },
+    {
+      "path": "assets/fonts/sans-serif/ReadexPro/ReadexPro-Bold.ttf",
+      "sha1": "dde5b06eab356601c35ac0f9984724649aa658a9"
+    },
+    {
+      "path": "assets/fonts/sans-serif/ReadexPro/ReadexPro-Medium.ttf",
+      "sha1": "f9df6817edbe84c23a0b4906be92b16552f7a384"
+    },
+    {
+      "path": "assets/fonts/sans-serif/ReadexPro/ReadexPro-Regular.ttf",
+      "sha1": "a4488b09892df7457a952dc20d01463b86abf63a"
+    },
+    {
+      "path": "assets/fonts/sans-serif/ReadexPro/ReadexPro-SemiBold.ttf",
+      "sha1": "b4ec28a6b1ba6ed730beb37f06b1b81c5e2163a3"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/Recursive-Medium.ttf",
+      "sha1": "d9b51c2ad217c86e696ded023526ada0b4d0b620"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/Recursive-Regular.ttf",
+      "sha1": "9b5fc2827480936100ad36a4ebeba7c327da7942"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/Recursive-SemiBold.ttf",
+      "sha1": "4271e6b06cbba9711edcaf8224bf1c33d943cf9f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveCasual-Medium.ttf",
+      "sha1": "df7b5e42a57130b430461c866a357c4ac42bd1ec"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveCasual-Regular.ttf",
+      "sha1": "74318c7c664a8d86f109458a6484ce2a7c030e2f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveCasual-SemiBold.ttf",
+      "sha1": "082268e6c6ad42f78078eef3d60bdd51b9f13663"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveMonospace-Medium.ttf",
+      "sha1": "5b48a40a5c11dfb1336b5765385909a8380b60e7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveMonospace-Regular.ttf",
+      "sha1": "839b5a64f034d96494e4c052868f2e5ad24587aa"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveMonospace-SemiBold.ttf",
+      "sha1": "c188af721796a2149705799ccb7ed28ec1e18e76"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveMonospaceCasual-SemiBold.ttf",
+      "sha1": "2e511a9d4a883e7a11ac021a3deab949a43db264"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveMonospace_Casual-Medium.ttf",
+      "sha1": "dec3ce9bae3aac12c1ba7cdfa70b7946f600d1be"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Recursive/RecursiveMonospace_Casual-Regular.ttf",
+      "sha1": "e8520fcd4c689c9a74ece469298016c83e654ef9"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-Black.ttf",
+      "sha1": "907fee5cac8408a196b6d60afd65788133804286"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-BlackItalic.ttf",
+      "sha1": "967e7fa5b8da8305182fef11bda7d2945d4b71d2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-Bold.ttf",
+      "sha1": "21f434c491bf80c1a53b976839ed17d54ce6b854"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-BoldItalic.ttf",
+      "sha1": "6d652b57137e7d2df4472ecfcb2ae82580b5ff15"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-ExtraBold.ttf",
+      "sha1": "8efe686f963b63be61974b16aacca08209d481f2"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-ExtraBoldItalic.ttf",
+      "sha1": "e8b44b11f761108963f9f63684d185af4fc62586"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-Italic.ttf",
+      "sha1": "0a05e2df1e9cac06b555c54f17ff1c4afc71f24d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-Light.ttf",
+      "sha1": "23fcd421b506d38fcd6c0360b69c1d9cb44c63bc"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-LightItalic.ttf",
+      "sha1": "0e099e0cae86520990272eab55db0ec5f3b4f7f7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-Medium.ttf",
+      "sha1": "66ae8fcb8e678fec9170f0ca0f18b44ce36dac81"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-MediumItalic.ttf",
+      "sha1": "18d81bbc2e60dda8f4c7e01ff9e56af5b6252f9b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-Regular.ttf",
+      "sha1": "18f63b4dd6a63d52af14932a1a72bf00b6c5e7f9"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-SemiBold.ttf",
+      "sha1": "78e6e51ae157103cc99093d76251b018cbd7c3d7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/RedHatDisplay/RedHatDisplay-SemiBoldItalic.ttf",
+      "sha1": "68cc50805e4311fe42409319c37359cb5f606a3c"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Ubuntu/Ubuntu-Bold.ttf",
+      "sha1": "020aaec9cdeb59aa8ebd2e4c693527cddb2d1577"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Ubuntu/Ubuntu-Medium.ttf",
+      "sha1": "da662f767e6261491e20da197bd7ffbb7a7d122c"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Ubuntu/Ubuntu-Regular.ttf",
+      "sha1": "8238e55f0320c3abc74057c988367c2f25fa3727"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Black.ttf",
+      "sha1": "516d2b16481f274b7b5d4a61eb317e6e77892671"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-BlackItalic.ttf",
+      "sha1": "b2797842b6db0599e9520e48d709ddc3780606d7"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Bold.ttf",
+      "sha1": "5393e451665e344701f6f250898895ca98dabdbc"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-BoldItalic.ttf",
+      "sha1": "f4a1e267a96bca0d7ef946e232f61611c0405327"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-ExtraBold.ttf",
+      "sha1": "8456433f5c419161b01f72c0db6d431132b5f74a"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-ExtraBoldItalic.ttf",
+      "sha1": "3fec61d75c1b844ccd01c6a378786a67dce575a5"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-ExtraLight.ttf",
+      "sha1": "2f64ebe6c0466770c52d2c59a558c7a5df040061"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-ExtraLightItalic.ttf",
+      "sha1": "4e7dfd8a9e56674fcd26701faa41a6ec3f597f4d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Italic.ttf",
+      "sha1": "24930b7124266e299f4232d2124b3f74fc23dc0f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Light.ttf",
+      "sha1": "9477d6f6236a773d649a5e58a2ab612411f8e1ee"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-LightItalic.ttf",
+      "sha1": "a6574263208df3f694fcebce8b52991a3e50b78d"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Medium.ttf",
+      "sha1": "8fdacadcc8bf9a54e98e7894f54c0d8edab92b03"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-MediumItalic.ttf",
+      "sha1": "a89277d4b8e6b48ade27a7914b0267b99adef87f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Regular.ttf",
+      "sha1": "ca6e793bc43b42306c06fedc353c68af20ee2c7b"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-SemiBold.ttf",
+      "sha1": "a0dd44015ece2092d0b480cd60c87ccbe932e3f4"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-SemiBoldItalic.ttf",
+      "sha1": "a76907c1086fd04d6a35c316a3c4093e24048c80"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-Thin.ttf",
+      "sha1": "a5741733c8bb3dae3513ff8d7ecb04a472725974"
+    },
+    {
+      "path": "assets/fonts/sans-serif/Urbanist/Urbanist-ThinItalic.ttf",
+      "sha1": "73cc0bff711e9fbbcb7cb8f2ca683f33c6bdbae0"
+    },
+    {
+      "path": "assets/fonts/sans-serif/VarelaRound/VarelaRound-Regular.ttf",
+      "sha1": "549e4b02217aff2920c11101eca6b41c805ccb69"
+    },
+    {
+      "path": "assets/fonts/sans-serif/WorkSans/WorkSans-Bold.ttf",
+      "sha1": "098c2420f59811d626752fbdf521a5c5ded2068f"
+    },
+    {
+      "path": "assets/fonts/sans-serif/WorkSans/WorkSans-Medium.ttf",
+      "sha1": "1ed172f57ad9f44be4c8ba2bcf473bea288c9a07"
+    },
+    {
+      "path": "assets/fonts/sans-serif/WorkSans/WorkSans-Regular.ttf",
+      "sha1": "3a5bd698d50be4d188c32c51a742e0d06facd697"
+    }
+  ]
+}
