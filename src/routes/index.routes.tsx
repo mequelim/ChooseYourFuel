@@ -9,7 +9,7 @@ import { Result } from "../pages/Result";
 //* Import types...
 import RootStackParamList from "../types/RootStackParamList";
 
-const Stack = createStackNavigator<RootStackParamList>();  //* Initialize the stack navigator with the RootStackParamList type.
+const Stack = createStackNavigator<RootStackParamList>();  //* Initializes the stack navigator with the RootStackParamList type.
 
 function ResultScreen({ route }: { route: { params: RootStackParamList["Result"] } }) {
   return <Result {...route.params} />;
