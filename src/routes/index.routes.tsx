@@ -1,17 +1,13 @@
 import React from "react";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
+
+//* Import pages...
 import { Form } from "../pages/Form";
 import { Result } from "../pages/Result";
 
-type RootStackParamList = {
-  Form: React.JSX.Element;
-  Result: {
-    ethanolPrice: number;
-    gasolinePrice: number;
-    result: string;
-  };
-};
+//* Import types...
+import RootStackParamList from "../types/RootStackParamList";
 
 const Stack = createStackNavigator<RootStackParamList>();
 
