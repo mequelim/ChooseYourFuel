@@ -1,5 +1,7 @@
 import React from "react";
 import { StyleSheet, Text, TouchableOpacity } from "react-native";
+
+//* Importing assets...
 import colors from "../assets/colors.ts";
 import fonts from "../assets/fonts.ts";
 

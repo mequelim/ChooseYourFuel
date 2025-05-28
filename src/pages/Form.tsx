@@ -16,7 +16,7 @@ import { Label } from "../components/Label.tsx";
 import { getBestFuel } from "../utils/calculate.ts";  //* Utility function to calculate the best fuel option.
 
 import { StackNavigationProp } from "@react-navigation/stack";  //* Importing StackNavigationProp for type safety.
-import RootStackParamList from "../types/RootStackParamList.ts";
+import RootStackParamList from "../types/RootStackParamList.ts";  //* Import type for navigation parameters.
 
 type FormScreenNavigationProp = StackNavigationProp<RootStackParamList, "Form">;
 

@@ -19,8 +19,11 @@ interface ResultProps {
 
 const Result = ({ ethanolPrice, gasolinePrice, result }: ResultProps): React.JSX.Element => {
   const navigation = useNavigation();
+
+  //* Functions...
   const goBack = (): void => navigation.goBack();
 
+  //* Component's return...
   return (
     <View style={styles.wrapper}>
       <Image image="gas" />
