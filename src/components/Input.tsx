@@ -1,7 +1,7 @@
 import React from "react";
 import { StyleSheet, TextInput } from "react-native";
-import colors from "../assets/colors.ts";
-import fonts from "../assets/fonts.ts";
+import colors from "../assets/colors";
+import fonts from "../assets/fonts";
 
 interface InputProps {
   fuel: string;
