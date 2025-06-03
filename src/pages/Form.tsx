@@ -4,19 +4,19 @@ import { StyleSheet, Text, View } from "react-native";
 import { useNavigation } from "@react-navigation/native";  //* Navigation hook import.
 
 //* Importing assets...
-import colors from "../assets/colors.ts";
-import fonts from "../assets/fonts.ts";
+import colors from "../assets/colors";
+import fonts from "../assets/fonts";
 
 //* Importing components...
-import { Button } from "../components/Button.tsx";
-import { Image } from "../components/Image.tsx";
-import { Input } from "../components/Input.tsx";
-import { Label } from "../components/Label.tsx";
+import { Button } from "../components/Button";
+import { Image } from "../components/Image";
+import { Input } from "../components/Input";
+import { Label } from "../components/Label";
 
-import { getBestFuel } from "../utils/calculate.ts";  //* Utility function to calculate the best fuel option.
+import { getBestFuel } from "../utils/calculate";  //* Utility function to calculate the best fuel option.
 
 import { StackNavigationProp } from "@react-navigation/stack";  //* Importing StackNavigationProp for type safety.
-import RootStackParamList from "../types/RootStackParamList.ts";  //* Import type for navigation parameters.
+import RootStackParamList from "../types/RootStackParamList";  //* Import type for navigation parameters.
 
 type FormScreenNavigationProp = StackNavigationProp<RootStackParamList, "Form">;
 
